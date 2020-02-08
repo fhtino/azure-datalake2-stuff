@@ -1,0 +1,504 @@
+﻿Adjustable Race	AR-5381
+Bearing Ball	BA-8327
+BB Ball Bearing	BE-2349
+Headset Ball Bearings	BE-2908
+Blade	BL-2036
+LL Crankarm	CA-5965
+ML Crankarm	CA-6738
+HL Crankarm	CA-7457
+Chainring Bolts	CB-2903
+Chainring Nut	CN-6137
+Chainring	CR-7833
+Crown Race	CR-9981
+Chain Stays	CS-2812
+Decal 1	DC-8732
+Decal 2	DC-9824
+Down Tube	DT-2377
+Mountain End Caps	EC-M092
+Road End Caps	EC-R098
+Touring End Caps	EC-T209
+Fork End	FE-3760
+Freewheel	FH-2981
+Flat Washer 1	FW-1000
+Flat Washer 6	FW-1200
+Flat Washer 2	FW-1400
+Flat Washer 9	FW-3400
+Flat Washer 4	FW-3800
+Flat Washer 3	FW-5160
+Flat Washer 8	FW-5800
+Flat Washer 5	FW-7160
+Flat Washer 7	FW-9160
+Fork Crown	FC-3654
+Front Derailleur Cage	FC-3982
+Front Derailleur Linkage	FL-2301
+Guide Pulley	GP-0982
+LL Grip Tape	GT-0820
+ML Grip Tape	GT-1209
+HL Grip Tape	GT-2908
+Thin-Jam Hex Nut 9	HJ-1213
+Thin-Jam Hex Nut 10	HJ-1220
+Thin-Jam Hex Nut 1	HJ-1420
+Thin-Jam Hex Nut 2	HJ-1428
+Thin-Jam Hex Nut 15	HJ-3410
+Thin-Jam Hex Nut 16	HJ-3416
+Thin-Jam Hex Nut 5	HJ-3816
+Thin-Jam Hex Nut 6	HJ-3824
+Thin-Jam Hex Nut 3	HJ-5161
+Thin-Jam Hex Nut 4	HJ-5162
+Thin-Jam Hex Nut 13	HJ-5811
+Thin-Jam Hex Nut 14	HJ-5818
+Thin-Jam Hex Nut 7	HJ-7161
+Thin-Jam Hex Nut 8	HJ-7162
+Thin-Jam Hex Nut 12	HJ-9080
+Thin-Jam Hex Nut 11	HJ-9161
+Hex Nut 5	HN-1024
+Hex Nut 6	HN-1032
+Hex Nut 16	HN-1213
+Hex Nut 17	HN-1220
+Hex Nut 7	HN-1224
+Hex Nut 8	HN-1420
+Hex Nut 9	HN-1428
+Hex Nut 22	HN-3410
+Hex Nut 23	HN-3416
+Hex Nut 12	HN-3816
+Hex Nut 13	HN-3824
+Hex Nut 1	HN-4402
+Hex Nut 10	HN-5161
+Hex Nut 11	HN-5162
+Hex Nut 2	HN-5400
+Hex Nut 20	HN-5811
+Hex Nut 21	HN-5818
+Hex Nut 3	HN-6320
+Hex Nut 14	HN-7161
+Hex Nut 15	HN-7162
+Hex Nut 4	HN-8320
+Hex Nut 18	HN-9161
+Hex Nut 19	HN-9168
+Handlebar Tube	HT-2981
+Head Tube	HT-8019
+LL Hub	HU-6280
+HL Hub	HU-8998
+Keyed Washer	KW-4091
+External Lock Washer 3	LE-1000
+External Lock Washer 4	LE-1200
+External Lock Washer 9	LE-1201
+External Lock Washer 5	LE-1400
+External Lock Washer 7	LE-3800
+External Lock Washer 6	LE-5160
+External Lock Washer 1	LE-6000
+External Lock Washer 8	LE-7160
+External Lock Washer 2	LE-8000
+Internal Lock Washer 3	LI-1000
+Internal Lock Washer 4	LI-1200
+Internal Lock Washer 9	LI-1201
+Internal Lock Washer 5	LI-1400
+Internal Lock Washer 7	LI-3800
+Internal Lock Washer 6	LI-5160
+Internal Lock Washer 10	LI-5800
+Internal Lock Washer 1	LI-6000
+Internal Lock Washer 8	LI-7160
+Internal Lock Washer 2	LI-8000
+Thin-Jam Lock Nut 9	LJ-1213
+Thin-Jam Lock Nut 10	LJ-1220
+Thin-Jam Lock Nut 1	LJ-1420
+Thin-Jam Lock Nut 2	LJ-1428
+Thin-Jam Lock Nut 15	LJ-3410
+Thin-Jam Lock Nut 16	LJ-3416
+Thin-Jam Lock Nut 5	LJ-3816
+Thin-Jam Lock Nut 6	LJ-3824
+Thin-Jam Lock Nut 3	LJ-5161
+Thin-Jam Lock Nut 4	LJ-5162
+Thin-Jam Lock Nut 13	LJ-5811
+Thin-Jam Lock Nut 14	LJ-5818
+Thin-Jam Lock Nut 7	LJ-7161
+Thin-Jam Lock Nut 8	LJ-7162
+Thin-Jam Lock Nut 12	LJ-9080
+Thin-Jam Lock Nut 11	LJ-9161
+Lock Nut 5	LN-1024
+Lock Nut 6	LN-1032
+Lock Nut 16	LN-1213
+Lock Nut 17	LN-1220
+Lock Nut 7	LN-1224
+Lock Nut 8	LN-1420
+Lock Nut 9	LN-1428
+Lock Nut 22	LN-3410
+Lock Nut 23	LN-3416
+Lock Nut 12	LN-3816
+Lock Nut 13	LN-3824
+Lock Nut 1	LN-4400
+Lock Nut 10	LN-5161
+Lock Nut 11	LN-5162
+Lock Nut 2	LN-5400
+Lock Nut 20	LN-5811
+Lock Nut 21	LN-5818
+Lock Nut 3	LN-6320
+Lock Nut 14	LN-7161
+Lock Nut 15	LN-7162
+Lock Nut 4	LN-8320
+Lock Nut 19	LN-9080
+Lock Nut 18	LN-9161
+Lock Ring	LR-2398
+Lower Head Race	LR-8520
+Lock Washer 4	LW-1000
+Lock Washer 5	LW-1200
+Lock Washer 10	LW-1201
+Lock Washer 6	LW-1400
+Lock Washer 13	LW-3400
+Lock Washer 8	LW-3800
+Lock Washer 1	LW-4000
+Lock Washer 7	LW-5160
+Lock Washer 12	LW-5800
+Lock Washer 2	LW-6000
+Lock Washer 9	LW-7160
+Lock Washer 3	LW-8000
+Lock Washer 11	LW-9160
+Metal Angle	MA-7075
+Metal Bar 1	MB-2024
+Metal Bar 2	MB-6061
+Metal Plate 2	MP-2066
+Metal Plate 1	MP-2503
+Metal Plate 3	MP-4960
+Metal Sheet 2	MS-0253
+Metal Sheet 3	MS-1256
+Metal Sheet 7	MS-1981
+Metal Sheet 4	MS-2259
+Metal Sheet 5	MS-2341
+Metal Sheet 6	MS-2348
+Metal Sheet 1	MS-6061
+Metal Tread Plate	MT-1000
+LL Nipple	NI-4127
+HL Nipple	NI-9522
+Paint - Black	PA-187B
+Paint - Red	PA-361R
+Paint - Silver	PA-529S
+Paint - Blue	PA-632U
+Paint - Yellow	PA-823Y
+Pinch Bolt	PB-6109
+Cup-Shaped Race	RA-2345
+Cone-Shaped Race	RA-7490
+Reflector	RF-9198
+LL Mountain Rim	RM-M464
+ML Mountain Rim	RM-M692
+HL Mountain Rim	RM-M823
+LL Road Rim	RM-R436
+ML Road Rim	RM-R600
+HL Road Rim	RM-R800
+Touring Rim	RM-T801
+LL Mountain Seat Assembly	SA-M198
+ML Mountain Seat Assembly	SA-M237
+HL Mountain Seat Assembly	SA-M687
+LL Road Seat Assembly	SA-R127
+ML Road Seat Assembly	SA-R430
+HL Road Seat Assembly	SA-R522
+LL Touring Seat Assembly	SA-T467
+ML Touring Seat Assembly	SA-T612
+HL Touring Seat Assembly	SA-T872
+LL Spindle/Axle	SD-2342
+HL Spindle/Axle	SD-9872
+LL Shell	SH-4562
+HL Shell	SH-9312
+Spokes	SK-9283
+Seat Lug	SL-0931
+Stem	SM-9087
+Seat Post	SP-2981
+Steerer	SR-2098
+Seat Stays	SS-2985
+Seat Tube	ST-9828
+Top Tube	TO-2301
+Tension Pulley	TP-0923
+Rear Derailleur Cage	RC-0291
+HL Road Frame - Black, 58	FR-R92B-58
+HL Road Frame - Red, 58	FR-R92R-58
+Sport-100 Helmet, Red	HL-U509-R
+Sport-100 Helmet, Black	HL-U509
+Mountain Bike Socks, M	SO-B909-M
+Mountain Bike Socks, L	SO-B909-L
+Sport-100 Helmet, Blue	HL-U509-B
+AWC Logo Cap	CA-1098
+Long-Sleeve Logo Jersey, S	LJ-0192-S
+Long-Sleeve Logo Jersey, M	LJ-0192-M
+Long-Sleeve Logo Jersey, L	LJ-0192-L
+Long-Sleeve Logo Jersey, XL	LJ-0192-X
+HL Road Frame - Red, 62	FR-R92R-62
+HL Road Frame - Red, 44	FR-R92R-44
+HL Road Frame - Red, 48	FR-R92R-48
+HL Road Frame - Red, 52	FR-R92R-52
+HL Road Frame - Red, 56	FR-R92R-56
+LL Road Frame - Black, 58	FR-R38B-58
+LL Road Frame - Black, 60	FR-R38B-60
+LL Road Frame - Black, 62	FR-R38B-62
+LL Road Frame - Red, 44	FR-R38R-44
+LL Road Frame - Red, 48	FR-R38R-48
+LL Road Frame - Red, 52	FR-R38R-52
+LL Road Frame - Red, 58	FR-R38R-58
+LL Road Frame - Red, 60	FR-R38R-60
+LL Road Frame - Red, 62	FR-R38R-62
+ML Road Frame - Red, 44	FR-R72R-44
+ML Road Frame - Red, 48	FR-R72R-48
+ML Road Frame - Red, 52	FR-R72R-52
+ML Road Frame - Red, 58	FR-R72R-58
+ML Road Frame - Red, 60	FR-R72R-60
+LL Road Frame - Black, 44	FR-R38B-44
+LL Road Frame - Black, 48	FR-R38B-48
+LL Road Frame - Black, 52	FR-R38B-52
+HL Mountain Frame - Silver, 42	FR-M94S-42
+HL Mountain Frame - Silver, 44	FR-M94S-44
+HL Mountain Frame - Silver, 48	FR-M94S-52
+HL Mountain Frame - Silver, 46	FR-M94S-46
+HL Mountain Frame - Black, 42	FR-M94B-42
+HL Mountain Frame - Black, 44	FR-M94B-44
+HL Mountain Frame - Black, 48	FR-M94B-48
+HL Mountain Frame - Black, 46	FR-M94B-46
+HL Mountain Frame - Black, 38	FR-M94B-38
+HL Mountain Frame - Silver, 38	FR-M94S-38
+Road-150 Red, 62	BK-R93R-62
+Road-150 Red, 44	BK-R93R-44
+Road-150 Red, 48	BK-R93R-48
+Road-150 Red, 52	BK-R93R-52
+Road-150 Red, 56	BK-R93R-56
+Road-450 Red, 58	BK-R68R-58
+Road-450 Red, 60	BK-R68R-60
+Road-450 Red, 44	BK-R68R-44
+Road-450 Red, 48	BK-R68R-48
+Road-450 Red, 52	BK-R68R-52
+Road-650 Red, 58	BK-R50R-58
+Road-650 Red, 60	BK-R50R-60
+Road-650 Red, 62	BK-R50R-62
+Road-650 Red, 44	BK-R50R-44
+Road-650 Red, 48	BK-R50R-48
+Road-650 Red, 52	BK-R50R-52
+Road-650 Black, 58	BK-R50B-58
+Road-650 Black, 60	BK-R50B-60
+Road-650 Black, 62	BK-R50B-62
+Road-650 Black, 44	BK-R50B-44
+Road-650 Black, 48	BK-R50B-48
+Road-650 Black, 52	BK-R50B-52
+Mountain-100 Silver, 38	BK-M82S-38
+Mountain-100 Silver, 42	BK-M82S-42
+Mountain-100 Silver, 44	BK-M82S-44
+Mountain-100 Silver, 48	BK-M82S-48
+Mountain-100 Black, 38	BK-M82B-38
+Mountain-100 Black, 42	BK-M82B-42
+Mountain-100 Black, 44	BK-M82B-44
+Mountain-100 Black, 48	BK-M82B-48
+Mountain-200 Silver, 38	BK-M68S-38
+Mountain-200 Silver, 42	BK-M68S-42
+Mountain-200 Silver, 46	BK-M68S-46
+Mountain-200 Black, 38	BK-M68B-38
+Mountain-200 Black, 42	BK-M68B-42
+Mountain-200 Black, 46	BK-M68B-46
+Mountain-300 Black, 38	BK-M47B-38
+Mountain-300 Black, 40	BK-M47B-40
+Mountain-300 Black, 44	BK-M47B-44
+Mountain-300 Black, 48	BK-M47B-48
+Road-250 Red, 44	BK-R89R-44
+Road-250 Red, 48	BK-R89R-48
+Road-250 Red, 52	BK-R89R-52
+Road-250 Red, 58	BK-R89R-58
+Road-250 Black, 44	BK-R89B-44
+Road-250 Black, 48	BK-R89B-48
+Road-250 Black, 52	BK-R89B-52
+Road-250 Black, 58	BK-R89B-58
+Road-550-W Yellow, 38	BK-R64Y-38
+Road-550-W Yellow, 40	BK-R64Y-40
+Road-550-W Yellow, 42	BK-R64Y-42
+Road-550-W Yellow, 44	BK-R64Y-44
+Road-550-W Yellow, 48	BK-R64Y-48
+LL Fork	FK-1639
+ML Fork	FK-5136
+HL Fork	FK-9939
+LL Headset	HS-0296
+ML Headset	HS-2451
+HL Headset	HS-3479
+LL Mountain Handlebars	HB-M243
+ML Mountain Handlebars	HB-M763
+HL Mountain Handlebars	HB-M918
+LL Road Handlebars	HB-R504
+ML Road Handlebars	HB-R720
+HL Road Handlebars	HB-R956
+ML Mountain Frame - Black, 38	FR-M63B-38
+LL Mountain Front Wheel	FW-M423
+ML Mountain Front Wheel	FW-M762
+HL Mountain Front Wheel	FW-M928
+LL Road Front Wheel	FW-R623
+ML Road Front Wheel	FW-R762
+HL Road Front Wheel	FW-R820
+Touring Front Wheel	FW-T905
+ML Road Frame-W - Yellow, 38	FR-R72Y-38
+LL Mountain Rear Wheel	RW-M423
+ML Mountain Rear Wheel	RW-M762
+HL Mountain Rear Wheel	RW-M928
+LL Road Rear Wheel	RW-R623
+ML Road Rear Wheel	RW-R762
+HL Road Rear Wheel	RW-R820
+Touring Rear Wheel	RW-T905
+ML Mountain Frame - Black, 40	FR-M63B-40
+ML Mountain Frame - Black, 44	FR-M63B-44
+ML Mountain Frame - Black, 48	FR-M63B-48
+ML Road Frame-W - Yellow, 40	FR-R72Y-40
+ML Road Frame-W - Yellow, 42	FR-R72Y-42
+ML Road Frame-W - Yellow, 44	FR-R72Y-44
+ML Road Frame-W - Yellow, 48	FR-R72Y-48
+HL Road Frame - Black, 62	FR-R92B-62
+HL Road Frame - Black, 44	FR-R92B-44
+HL Road Frame - Black, 48	FR-R92B-48
+HL Road Frame - Black, 52	FR-R92B-52
+Men's Sports Shorts, S	SH-M897-S
+Touring-Panniers, Large	PA-T100
+Cable Lock	LO-C100
+Minipump	PU-0452
+Mountain Pump	PU-M044
+Taillights - Battery-Powered	LT-T990
+Headlights - Dual-Beam	LT-H902
+Headlights - Weatherproof	LT-H903
+Men's Sports Shorts, M	SH-M897-M
+Men's Sports Shorts, L	SH-M897-L
+Men's Sports Shorts, XL	SH-M897-X
+Women's Tights, S	TG-W091-S
+Women's Tights, M	TG-W091-M
+Women's Tights, L	TG-W091-L
+Men's Bib-Shorts, S	SB-M891-S
+Men's Bib-Shorts, M	SB-M891-M
+Men's Bib-Shorts, L	SB-M891-L
+Half-Finger Gloves, S	GL-H102-S
+Half-Finger Gloves, M	GL-H102-M
+Half-Finger Gloves, L	GL-H102-L
+Full-Finger Gloves, S	GL-F110-S
+Full-Finger Gloves, M	GL-F110-M
+Full-Finger Gloves, L	GL-F110-L
+Classic Vest, S	VE-C304-S
+Classic Vest, M	VE-C304-M
+Classic Vest, L	VE-C304-L
+Women's Mountain Shorts, S	SH-W890-S
+Women's Mountain Shorts, M	SH-W890-M
+Women's Mountain Shorts, L	SH-W890-L
+Water Bottle - 30 oz.	WB-H098
+Mountain Bottle Cage	BC-M005
+Road Bottle Cage	BC-R205
+Patch Kit/8 Patches	PK-7098
+Racing Socks, M	SO-R809-M
+Racing Socks, L	SO-R809-L
+Hitch Rack - 4-Bike	RA-H123
+Bike Wash - Dissolver	CL-9009
+Fender Set - Mountain	FE-6654
+All-Purpose Bike Stand	ST-1401
+Hydration Pack - 70 oz.	HY-1023-70
+Short-Sleeve Classic Jersey, S	SJ-0194-S
+Short-Sleeve Classic Jersey, M	SJ-0194-M
+Short-Sleeve Classic Jersey, L	SJ-0194-L
+Short-Sleeve Classic Jersey, XL	SJ-0194-X
+HL Touring Frame - Yellow, 60	FR-T98Y-60
+LL Touring Frame - Yellow, 62	FR-T67Y-62
+HL Touring Frame - Yellow, 46	FR-T98Y-46
+HL Touring Frame - Yellow, 50	FR-T98Y-50
+HL Touring Frame - Yellow, 54	FR-T98Y-54
+HL Touring Frame - Blue, 46	FR-T98U-46
+HL Touring Frame - Blue, 50	FR-T98U-50
+HL Touring Frame - Blue, 54	FR-T98U-54
+HL Touring Frame - Blue, 60	FR-T98U-60
+Rear Derailleur	RD-2308
+LL Touring Frame - Blue, 50	FR-T67U-50
+LL Touring Frame - Blue, 54	FR-T67U-54
+LL Touring Frame - Blue, 58	FR-T67U-58
+LL Touring Frame - Blue, 62	FR-T67U-62
+LL Touring Frame - Yellow, 44	FR-T67Y-44
+LL Touring Frame - Yellow, 50	FR-T67Y-50
+LL Touring Frame - Yellow, 54	FR-T67Y-54
+LL Touring Frame - Yellow, 58	FR-T67Y-58
+LL Touring Frame - Blue, 44	FR-T67U-44
+ML Mountain Frame-W - Silver, 40	FR-M63S-40
+ML Mountain Frame-W - Silver, 42	FR-M63S-42
+ML Mountain Frame-W - Silver, 46	FR-M63S-46
+Rear Brakes	RB-9231
+LL Mountain Seat/Saddle	SE-M236
+ML Mountain Seat/Saddle	SE-M798
+HL Mountain Seat/Saddle	SE-M940
+LL Road Seat/Saddle	SE-R581
+ML Road Seat/Saddle	SE-R908
+HL Road Seat/Saddle	SE-R995
+LL Touring Seat/Saddle	SE-T312
+ML Touring Seat/Saddle	SE-T762
+HL Touring Seat/Saddle	SE-T924
+LL Mountain Frame - Silver, 42	FR-M21S-42
+LL Mountain Frame - Silver, 44	FR-M21S-44
+LL Mountain Frame - Silver, 48	FR-M21S-48
+LL Mountain Frame - Silver, 52	FR-M21S-52
+Mountain Tire Tube	TT-M928
+Road Tire Tube	TT-R982
+Touring Tire Tube	TT-T092
+LL Mountain Frame - Black, 42	FR-M21B-42
+LL Mountain Frame - Black, 44	FR-M21B-44
+LL Mountain Frame - Black, 48	FR-M21B-48
+LL Mountain Frame - Black, 52	FR-M21B-52
+LL Mountain Tire	TI-M267
+ML Mountain Tire	TI-M602
+HL Mountain Tire	TI-M823
+LL Road Tire	TI-R092
+ML Road Tire	TI-R628
+HL Road Tire	TI-R982
+Touring Tire	TI-T723
+LL Mountain Pedal	PD-M282
+ML Mountain Pedal	PD-M340
+HL Mountain Pedal	PD-M562
+LL Road Pedal	PD-R347
+ML Road Pedal	PD-R563
+HL Road Pedal	PD-R853
+Touring Pedal	PD-T852
+ML Mountain Frame-W - Silver, 38	FR-M63S-38
+LL Mountain Frame - Black, 40	FR-M21B-40
+LL Mountain Frame - Silver, 40	FR-M21S-40
+Front Derailleur	FD-2342
+LL Touring Handlebars	HB-T721
+HL Touring Handlebars	HB-T928
+Front Brakes	FB-9873
+LL Crankset	CS-4759
+ML Crankset	CS-6583
+HL Crankset	CS-9183
+Chain	CH-0234
+Touring-2000 Blue, 60	BK-T44U-60
+Touring-1000 Yellow, 46	BK-T79Y-46
+Touring-1000 Yellow, 50	BK-T79Y-50
+Touring-1000 Yellow, 54	BK-T79Y-54
+Touring-1000 Yellow, 60	BK-T79Y-60
+Touring-3000 Blue, 54	BK-T18U-54
+Touring-3000 Blue, 58	BK-T18U-58
+Touring-3000 Blue, 62	BK-T18U-62
+Touring-3000 Yellow, 44	BK-T18Y-44
+Touring-3000 Yellow, 50	BK-T18Y-50
+Touring-3000 Yellow, 54	BK-T18Y-54
+Touring-3000 Yellow, 58	BK-T18Y-58
+Touring-3000 Yellow, 62	BK-T18Y-62
+Touring-1000 Blue, 46	BK-T79U-46
+Touring-1000 Blue, 50	BK-T79U-50
+Touring-1000 Blue, 54	BK-T79U-54
+Touring-1000 Blue, 60	BK-T79U-60
+Touring-2000 Blue, 46	BK-T44U-46
+Touring-2000 Blue, 50	BK-T44U-50
+Touring-2000 Blue, 54	BK-T44U-54
+Road-350-W Yellow, 40	BK-R79Y-40
+Road-350-W Yellow, 42	BK-R79Y-42
+Road-350-W Yellow, 44	BK-R79Y-44
+Road-350-W Yellow, 48	BK-R79Y-48
+Road-750 Black, 58	BK-R19B-58
+Touring-3000 Blue, 44	BK-T18U-44
+Touring-3000 Blue, 50	BK-T18U-50
+Mountain-400-W Silver, 38	BK-M38S-38
+Mountain-400-W Silver, 40	BK-M38S-40
+Mountain-400-W Silver, 42	BK-M38S-42
+Mountain-400-W Silver, 46	BK-M38S-46
+Mountain-500 Silver, 40	BK-M18S-40
+Mountain-500 Silver, 42	BK-M18S-42
+Mountain-500 Silver, 44	BK-M18S-44
+Mountain-500 Silver, 48	BK-M18S-48
+Mountain-500 Silver, 52	BK-M18S-52
+Mountain-500 Black, 40	BK-M18B-40
+Mountain-500 Black, 42	BK-M18B-42
+Mountain-500 Black, 44	BK-M18B-44
+Mountain-500 Black, 48	BK-M18B-48
+Mountain-500 Black, 52	BK-M18B-52
+LL Bottom Bracket	BB-7421
+ML Bottom Bracket	BB-8107
+HL Bottom Bracket	BB-9108
+Road-750 Black, 44	BK-R19B-44
+Road-750 Black, 48	BK-R19B-48
+Road-750 Black, 52	BK-R19B-52
