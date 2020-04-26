@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "ADLSApplyPerms": {
-      "commandName": "Project",
-      "commandLineArgs": "../../../../../ADLSApplyPerms.secret.json"
-    }
-  }
-}
