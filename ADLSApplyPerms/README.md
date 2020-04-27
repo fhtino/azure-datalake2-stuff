@@ -30,14 +30,14 @@ Configuration file example:
   "LogVerbose": false,
   "Parallelism": 8,
   "ACL": [
-    "user:ele@contoso.onmicrosoft.com:r--",
-    "default:user:ele@contoso.onmicrosoft.com:r-x",
+    "user:amber@contoso.com:r--",
+    "default:user:amber@contoso.com:r-x",
     "group:11111e4b-964b-46e4-af2e-aaaaacfa0ca07:rwx",
     "default:group:11111e4b-964b-46e4-af2e-aaaaacfa0ca07:rwx"
   ],
   "RemoveList": [
-    "jane@contoso.onmicrosoft.com",
-    "chiara@contoso.onmicrosoft.com"
+    "jane@contoso.com",
+    "amanda@contoso.com"
   ]
 }
 ```
@@ -53,8 +53,8 @@ Result on a file:
 <tr>
 <td valign="top">
 <pre><code>user::rw-
-user:dario@contoso.onmicrosoft.com:rwx
-user:chiara@contoso.onmicrosoft.com:r--
+user:karl@contoso.com:rwx
+user:amanda@contoso.com:r--
 group::r-x
 group:aaaaaaaa-e5f1-499e-9719-bbbbbbbbbbbb:rwx
 mask::rw-
@@ -62,8 +62,8 @@ other::---</code></pre>
 </td>
 <td>
 <pre><code>user::rw-
-user:dario@contoso.onmicrosoft.com:rwx
-user:ele@contoso.onmicrosoft.com:r--
+user:karl@contoso.com:rwx
+user:amber@contoso.com:r--
 group::r-x
 group:aaaaaaaa-e5f1-499e-9719-bbbbbbbbbbbb:rwx
 group:11111e4b-964b-46e4-af2e-aaaaacfa0ca07:rwx
@@ -82,13 +82,13 @@ Result on a group:
 <td valign="top">
 <pre><code>
 user::rwx
-user:dario@contoso.onmicrosoft.com:r--
+user:karl@contoso.com:r--
 group::rwx
 group:aaaaaaaa-e5f1-499e-9719-bbbbbbbbbbbb:rwx
 mask::rwx
 other::---
 default:user::rwx
-default:user:chiara@contoso.onmicrosoft.com:r-x
+default:user:amber@contoso.com:r-x
 default:group::rwx
 default:group:aaaaaaaa-e5f1-499e-9719-bbbbbbbbbbbb:rwx
 default:mask::rwx
@@ -98,15 +98,15 @@ default:other::---
 <td>
 <pre><code>
 user::rwx
-user:dario@contoso.onmicrosoft.com:r--
-user:ele@contoso.onmicrosoft.com:r--
+user:karl@contoso.com:r--
+user:amber@contoso.com:r--
 group::rwx
 group:aaaaaaaa-e5f1-499e-9719-bbbbbbbbbbbb:rwx
 group:11111e4b-964b-46e4-af2e-aaaaacfa0ca07:rwx
 mask::rwx
 other::---
 default:user::rwx
-default:user:ele@contoso.onmicrosoft.com:r-x
+default:user:amber@contoso.com:r-x
 default:group::rwx
 default:group:aaaaaaaa-e5f1-499e-9719-bbbbbbbbbbbb:rwx
 default:group:11111e4b-964b-46e4-af2e-aaaaacfa0ca07:rwx
