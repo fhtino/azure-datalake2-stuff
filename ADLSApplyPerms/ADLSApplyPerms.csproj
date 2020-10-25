@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Azure.Storage.Files.DataLake" Version="12.1.0" />
+    <PackageReference Include="Azure.Storage.Files.DataLake" Version="12.4.0" />
   </ItemGroup>
 
 </Project>

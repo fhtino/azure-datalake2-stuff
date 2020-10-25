@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestsDataProducer": {
+      "commandName": "Project",
+      "commandLineArgs": "FilesAndFolders"
+    }
+  }
+}
