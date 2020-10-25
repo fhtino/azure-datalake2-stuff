@@ -1,4 +1,4 @@
-﻿\* \* \* **DRAFT** \* \* \*
+\* \* \* **DRAFT** \* \* \*
 
 ### On my machine with my internet connection
 
@@ -14,8 +14,8 @@
 
 #### Results
 
-| Name | Params | Run1 | Run2 | Run3 | API calls|
-|--|--|
+| Name | Params | Run1 | Run2 | Run3 | API calls |
+| - | - | - | - | - | - |
 | ListSimple         | | 36 | 31 | 33 | 23 |
 | ListAsync          | | 38 | 30 | 34 | 23 |
 | PartiallyRecursive | 0 | 30 | 31 | 29 | 31 |
