@@ -24,3 +24,21 @@
 | PartiallyRecursive | >2 | 10.6 | 8.7 | 10.3 | 1110 |
 
 
+**BE CAREFUL!!!**
+
+Calling DataLake Storage API is quite expensive, in particular write operations.  
+https://azure.microsoft.com/en-us/pricing/details/storage/data-lake/
+
+The above tests costed me around € 2.38. As you can see in the table below, the main cost is related to creating files. For each file I have to create the file, append data and flush it.
+
+| API |	Calls |	Type	| Price	| Total € |
+| - | - | - | - | - |
+| CreatePathFile	| 113850	| WriteOperation	| 0,00000592	| 0,6740 |
+| AppendFile	| 113850	| WriteOperation	| 0,00000592	| 0,6740 |
+| FlushFile	| 113850	| WriteOperation	| 0,00000592	| 0,6740 |
+| ListFilesystemDir	| 57650	| IterativeRead	| 0,00000592	| 0,3413 |
+| CreatePathDir	| 3720	| WriteOperation	| 0,00000592	| 0,0220 |
+| | | | | **2,3853** |
+
+
+
