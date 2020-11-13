@@ -1,10 +1,8 @@
 # ADLS file listing performance tests
 
-I was curious about which was the best approach for listing many files and folders on a Azure Data Lake Storage - Gen2.   
-In my experince, listing on ADLS-Gen2 is not so fast or, at least, it does not fit my needs.  
-So I tried different approaches: classic listing - sync and async, and different level of parallelism.   
+I was curious about which was the best approach for listing many files and folders on a Azure Data Lake Storage - Gen2. In my experince, listing on ADLS-Gen2 is not so fast or, at least, it often does not fit my needs. So wrote some code to try different approaches: classic listing - sync and async, and different level of parallelism. The keypoint is to find a good balance between parallelization, round-trip / overhead of HTTPS connections and numbers (--> cost) of API calls.
 
-### On my machine with my internet connection
+### Results on my machine with my internet connection
 
  - client location: Italy
  - azure datacenter: West Europe (Nederland)
