@@ -1,4 +1,8 @@
-\* \* \* **DRAFT** \* \* \*
+# ADLS file listing performance tests
+
+I was curious about which was the best approach for listing many files and folders on a Azure Data Lake Storage - Gen2.   
+In my experince, listing on ADLS-Gen2 is not so fast or, at least, it does not fit my needs.  
+So I tried different approaches: classic listing - sync and async, and different level of parallelism.   
 
 ### On my machine with my internet connection
 
