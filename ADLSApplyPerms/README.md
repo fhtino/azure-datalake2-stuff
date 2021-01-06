@@ -1,6 +1,9 @@
 ﻿# ADLSApplyPerms
 A tool for massively updating ACL permissions on Azure Data Lake Gen2 files and directories.  
 
+[update: It seems Microsoft released a new API doing  the same. TODO: verify how it works and differences.  
+https://docs.microsoft.com/en-us/azure/storage/blobs/recursive-access-control-lists?tabs=dotnet]
+
 ### Usage
 The tool updates files and directories ACLs, adding and updating existing rules and removing specified users or groups. 
 Existing ACL non-matching with supplied ACL are left as is.  
